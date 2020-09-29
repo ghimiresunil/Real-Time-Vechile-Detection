@@ -7,3 +7,11 @@ But this is for only static cameras.
 
 At the corner of the video you can see the count of the vehicles which gets recorded
 when they cross a predefined limit. For the calculation of the object coordinates and object ids I defined a class called vehicles.py
+
+1. Just download the repository and unzip the file. <br>
+2. Run the python program named <b> <i>  "main.py" </i> </b> <br>
+3. Enjoy the Vechile Count Program
+
+<h3>  Feel free to count real time Vechile. If you have a crazy idea, then pull request ☺ </h3>
+
+<h1> !! THANK YOU !! </h1>
