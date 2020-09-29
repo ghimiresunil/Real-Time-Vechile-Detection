@@ -12,4 +12,4 @@ when they cross a predefined limit. For the calculation of the object coordinate
 2. Run the python program named <b> <i>  "main.py" </i> </b> <br>
 3. Enjoy the Vechile Count Program
 
-<h3>  Feel free to play with Tkinter and Turtle . If you have a crazy idea, then pull request ☺ </h3>
+<h3>  Feel free to count real time Vechile. If you have a crazy idea, then pull request ☺ </h3>
