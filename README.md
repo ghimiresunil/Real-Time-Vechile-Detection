@@ -21,6 +21,21 @@ A digital camera on a house was set up to collect the dataset of road videos whi
 * 4 GB RAM or Above
 * Camera
 
+## Steps Involved to run this project
+
+* Just download the repository and unzip the file
+* Run the python program named <code>main.py</code>
+* Enjoy the vechile Count Program
+
+## Future Escalation 
+
+* Localize the number plates
+* Segment the character
+* Store character in database
+
+## Personal Opinion
+
+Vehicle counting and detecting system can be used to trace vehicles, traffic monitoring and controlling, payment on highway troll. We can also detect the speed of the vehicle on the lane. People will get knowledge about the types of vehicles entering and exiting and also will be able to get accurate information on the flow of traffic.
 
 <h3>  Feel free to count real time Vechile. If you have a crazy idea, then pull request ☺ </h3>
 
