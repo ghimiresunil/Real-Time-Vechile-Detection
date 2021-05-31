@@ -13,6 +13,15 @@ This tutorial proposes a video-based approach based on computer vision technolog
 A digital camera on a house was set up to collect the dataset of road videos which is recorded during the afternoon(from 12 P.M. to 2.30 P.M.). Six input videos of the road around four to seven minutes were taken. The resolution of the video was 1280×720 pixels with a time resolution of 30 frames per second.
 
 
+## Requirement to run this project
+
+* Python 3.7
+* OvenCV
+* Intel(R) Core i5 (1.7-2.4 GHz) CPU or above
+* 4 GB RAM or Above
+* Camera
+
+
 <h3>  Feel free to count real time Vechile. If you have a crazy idea, then pull request ☺ </h3>
 
 <h1> !! THANK YOU !! </h1>
